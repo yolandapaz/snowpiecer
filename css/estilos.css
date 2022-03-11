@@ -1,0 +1,35 @@
+h1 {
+  font-weight: bold;
+  text-align: center;  
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  color: #000000;
+ }
+
+h2 {
+
+  font-weight: bold;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+ }
+
+img {
+  
+  display: block;
+  width: 80px;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center{
+
+	margin-left: auto;
+	margin-right: auto;
+}
+
+figcaption {
+
+  text-align: center;
+}
+© 2022 GitHub, Inc.
+Terms
